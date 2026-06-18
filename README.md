@@ -1,4 +1,4 @@
-# Hi there, I'm [Faraz Ahmed] 👋 
+# Hi there, I'm Faraz Ahmed 👋 
 ### Full Stack Developer | Tech Tinkerer
 
 I am a passionate developer who loves building clean backend systems, interactive frontends, and tinkering with software configurations. I enjoy solving complex problems, optimizing application performance, and exploring new development tools.

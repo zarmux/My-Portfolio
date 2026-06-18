@@ -13,7 +13,6 @@ I am a passionate developer who loves building clean backend systems, interactiv
 | **Backend / Frameworks** | Django, Flask, FastAPI, Node.js |
 | **Frontend / UI** | React, Bootstrap, Tailwind CSS |
 | **Databases** | PostgreSQL, SQLite, MongoDB |
-| **OS & Environments** | Linux, ChromeOS Flex, Git, GitHub |
 
 ---
 
